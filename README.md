@@ -1,0 +1,1 @@
+Designed to pull new JSON files from a device and render them for publication.
