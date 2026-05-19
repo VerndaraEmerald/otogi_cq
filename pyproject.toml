@@ -5,7 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "colorthief>=0.2.1",
+    "ipython>=9.13.0",
+    "line-profiler>=5.0.2",
+    "matplotlib>=3.10.9",
+    "matplotlib-inline>=0.2.2",
     "opencv-python>=4.13.0.92",
     "pandas>=3.0.2",
     "pytesseract>=0.3.13",
+    "scikit-learn>=1.8.0",
+    "thefuzz>=0.22.1",
 ]

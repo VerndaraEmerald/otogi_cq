@@ -12,3 +12,8 @@ wheels/
 # files
 old
 **.csv
+
+# images
+cq_results/
+base_images/
+training/
