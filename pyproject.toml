@@ -10,9 +10,15 @@ dependencies = [
     "line-profiler>=5.0.2",
     "matplotlib>=3.10.9",
     "matplotlib-inline>=0.2.2",
+    "multiprocess>=0.70.19",
     "opencv-python>=4.13.0.92",
     "pandas>=3.0.2",
     "pytesseract>=0.3.13",
     "scikit-learn>=1.8.0",
+    "tesserocr",
     "thefuzz>=0.22.1",
+    "tqdm>=4.67.3",
 ]
+
+[tool.uv.sources]
+tesserocr = { path = "../tesserocr-2.10.0-cp311-cp311-win_amd64.whl" }
