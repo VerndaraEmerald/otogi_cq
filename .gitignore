@@ -11,7 +11,7 @@ wheels/
 
 # files
 old
-**.csv
+drops_csv
 
 # images
 cq_results/
