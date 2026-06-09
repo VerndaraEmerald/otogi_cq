@@ -15,5 +15,5 @@ drops_csv
 
 # images
 cq_results/
-base_images/
-training/
+gcq_isolated_drops/
+gcq_training_images/
